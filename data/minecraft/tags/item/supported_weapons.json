@@ -1,0 +1,38 @@
+{
+    "values": [
+        "netherite_sword",
+        "netherite_axe",
+        "netherite_spear",
+
+        "diamond_sword",
+        "diamond_axe",
+        "diamond_spear",
+        
+        "iron_sword",
+        "iron_axe",
+        "iron_spear",
+
+        "golden_sword",
+        "golden_axe",
+        "golden_spear",
+
+        "copper_sword",
+        "copper_axe",
+        "copper_spear",
+
+        "stone_sword",
+        "stone_axe",
+        "stone_spear",
+
+        "wooden_sword",
+        "wooden_axe",
+        "wooden_spear",
+
+        "bow",
+        "crossbow",
+        "mace",
+        "shield",
+        "totem_of_undying",
+        "trident"
+    ]
+}

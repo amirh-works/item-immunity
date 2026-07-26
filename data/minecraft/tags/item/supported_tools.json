@@ -1,0 +1,38 @@
+{
+    "values": [
+        "netherite_pickaxe",
+        "netherite_shovel",
+        "netherite_hoe",
+
+        "diamond_pickaxe",
+        "diamond_shovel",
+        "diamond_hoe",
+        
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_hoe",
+
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_hoe",
+
+        "copper_pickaxe",
+        "copper_shovel",
+        "copper_hoe",
+        
+        "stone_pickaxe",
+        "stone_shovel",
+        "stone_hoe",
+
+        "wooden_pickaxe",
+        "wooden_shovel",
+        "wooden_hoe",
+
+        "shears",
+        "fishing_rod",
+        "bucket",
+        "flint_and_steel",
+        "carrot_on_a_stick",
+        "warped_fungus_on_a_stick"
+    ]
+}

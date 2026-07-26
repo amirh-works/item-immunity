@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.immunity.item_immunity",
+    "fallback": "Immutable",
+    "type": "translatable",
+    "color": "gold"
+  },
+  "supported_items": "#minecraft:supported_items",
+  "weight": 1,
+  "max_level": 1, 
+  "min_cost": {
+    "base": 48,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 64,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 3,
+  "slots": ["any"],
+  "effects": {},
+  "exclusive_set": "minecraft:vanishing_curse"
+}

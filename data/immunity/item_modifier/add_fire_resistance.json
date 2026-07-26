@@ -1,0 +1,13 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:damage_resistant": {
+      "types": [
+        "in_fire",
+        "explosion",
+        "player_explosion",
+        "cactus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#minecraft:supported_armors",
+    "#minecraft:supported_weapons",
+    "#minecraft:supported_tools",
+    "#supported_utilities",
+
+    "golden_apple",
+    "enchanted_golden_apple"
+  ]
+}   
