@@ -10,11 +10,11 @@ The **Immutable** enchantment fully safeguards dropped items on the ground from 
 
 ### 🔥 Lava & Fire Immunity
 Items will float safely on lava or sit in fire without burning up.
-![Lava Protection](https://github.com/amirh-works/item-immunity/blob/main/public/sword.GIF?raw=true)
+![Lava Protection](https://github.com/amirh-works/item-immunity/blob/26.2/public/sword.GIF?raw=true)
 
 ### 💥 Explosion Immunity
 Blocks and items dropped during creeper or TNT blasts remain completely intact.
-![Explosion](https://github.com/amirh-works/item-immunity/blob/main/public/explosion.GIF?raw=true)
+![Explosion](https://github.com/amirh-works/item-immunity/blob/26.2/public/explosion.GIF?raw=true)
 
 ### 🌵 Cactus Immunity
 No more accidental item deletion when dropping items next to cacti.
