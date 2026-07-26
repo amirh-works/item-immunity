@@ -2,6 +2,6 @@
     "pack": {
         "min_format": 107.0,
         "max_format": 107.0,
-        "description": "Item immunity enchantment from burned, explosions, and cactus."
+        "description": "Prevent items from being destroyed by lava, explosions, and cactus with \"Immutable\" enchantment."
     }
 }
